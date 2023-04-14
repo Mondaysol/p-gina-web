@@ -1,0 +1,27 @@
+
+h1 {
+    text-align: center;
+    color: aliceblue;font-size: 50px;
+    background-color: rgb(24, 151, 151);
+    margin-bottom: 0px;
+}
+
+#prueba img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+tr {
+  text-align: center;
+  color: aliceblue;font-size: 30px;
+  background-color: rgb(24, 151, 151);
+  margin-bottom: 0px; 
+ }
+
+ #imagen img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
